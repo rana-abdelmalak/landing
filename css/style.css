@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Roboto+Condensed&display=swap');
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+@import url("components/footer.css");
+
+/* Fonts and colors */
+body{
+  background: #FFFFFC;
+  color: black;
+  font-size: 18px;
+  font-family: Lato, sans-serif;
+  margin: 0px;
+  font-weight: normal;
+}
+h1 {
+  font-weight: 600;
+  font-color: pink;
+
+}
+h2 {
+  font-weight: bold;
+  font-size: 24px;
+  color: #6A2E35;
+  text-shadow: 2px 2px #s6A2E35;
+}
+a {
+  color: #6A2E35;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline li {
+  display: inline;
+  padding: 0px 8px;
+}
+

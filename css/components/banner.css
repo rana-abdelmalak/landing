@@ -1,0 +1,30 @@
+.banner{
+  text-align: justify;
+  color: black;
+  padding: 150px 0px;
+  background-image: url("https://www.esas-formation.fr/wp-content/uploads/2018/07/reussir-sa-prise-de-parole-en-public-1200x626.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.8;
+}
+.banner h1 {
+  font-size: 50px;
+  text-shadow: 2px 2px #6A2E35;
+  padding-left: 300px;
+  padding-right: 100px;
+}
+.banner p {
+  font-size: 30px;
+  font-weight: NORMAL;
+  margin-bottom: 40px;
+  margin-top: 30px;
+  font-family: calibri;
+  color: white;
+  line-height: 30px;
+  text-shadow: 2px 2px black;
+  padding-left: 300px;
+  padding-right: 100px;
+}
